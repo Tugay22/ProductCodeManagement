@@ -2,6 +2,6 @@
 
 
 -- dotnet restore
--- dotner run
+-- dotnet run
 -- Generates product code
 -- Check is valid or not 
