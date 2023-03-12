@@ -1,7 +1,7 @@
 # ProductCodeManagement
 
+dotnet restore                                                                                                                                                                
+dotnet run                                                                                                                                                                      
+Generates product code                                                                                                                                                            
+Check is valid or not 
 
--- dotnet restore
--- dotnet run
--- Generates product code
--- Check is valid or not 
